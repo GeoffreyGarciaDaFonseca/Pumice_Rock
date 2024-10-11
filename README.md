@@ -10,4 +10,4 @@ They are volcanique rocks.
 - Presentation of flow / waves / oceanic courants and how the pumice rock travels
 - 
 
-$'\frac{25 \times \left(\frac{149,3}{0,789}\right)}{\left(\frac{149,3}{0,789}\right) + \left(\frac{3734,5}{0,789}\right)} = 0,961$
+$\frac{25 \times \left(\frac{149,3}{0,789}\right)}{\left(\frac{149,3}{0,789}\right) + \left(\frac{3734,5}{0,789}\right)} = 0,961$
